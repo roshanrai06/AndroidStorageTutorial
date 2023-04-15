@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidStorageTutorial</string>
+    <string name="your_private_photos">Your private photos</string>
+    <string name="private_str">Private</string>
+    <string name="shared_photos">Shared photos</string>
+    <string name="photo_item">Photo Item</string>
+    <string name="take_photo">Take Photo</string>
+</resources>
